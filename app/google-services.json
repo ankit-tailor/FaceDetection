@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163366177212",
+    "firebase_url": "https://mlfacedetection-37412.firebaseio.com",
+    "project_id": "mlfacedetection-37412",
+    "storage_bucket": "mlfacedetection-37412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163366177212:android:2cf9dfdac36ec10be403b9",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163366177212-oevv7vnn8sj6blbvasmpuoe3vf4ur6ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBri23CTUNvwXlV-juAdyVClEEaCaQH5_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163366177212-oevv7vnn8sj6blbvasmpuoe3vf4ur6ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
